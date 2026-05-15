@@ -10,7 +10,7 @@
       "name": "gbs",
       "source": {
         "source": "github",
-        "repo": "zhongkai/claude-gbs-plugin"
+        "repo": "gbs-toolkit/claude-gbs-plugin"
       },
       "description": "Claude Code plugin for GB Studio 4.x — structured MCP tools (scene/actor/trigger/script/variable + sprite generation + build/emulator) plus skills enforcing GB hardware limits and the 4.x per-resource on-disk schema.",
       "version": "0.1.0",
