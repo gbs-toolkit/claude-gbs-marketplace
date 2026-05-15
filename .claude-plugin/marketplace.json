@@ -1,0 +1,25 @@
+{
+  "name": "gbs-toolkit",
+  "owner": {
+    "name": "Stefan Fan",
+    "email": "kaizhongfan@gmail.com",
+    "url": "https://github.com/zhongkai"
+  },
+  "plugins": [
+    {
+      "name": "gbs",
+      "source": {
+        "source": "github",
+        "repo": "zhongkai/claude-gbs-plugin"
+      },
+      "description": "Claude Code plugin for GB Studio 4.x — structured MCP tools (scene/actor/trigger/script/variable + sprite generation + build/emulator) plus skills enforcing GB hardware limits and the 4.x per-resource on-disk schema.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["gb-studio", "gameboy", "mcp", "skills"],
+      "author": {
+        "name": "Stefan Fan"
+      },
+      "license": "MIT"
+    }
+  ]
+}
